@@ -1,0 +1,8 @@
+[submodule "mt-landscape-shaping"]
+	path = mt-landscape-shaping
+	url = https://gitlab.com/cronvel/mt-landscape-shaping
+	branch = master
+[submodule "candles_3d"]
+	path = candles_3d
+	url = https://gitlab.com/mazes_80/candles_3d
+	branch = master
