@@ -1,0 +1,2 @@
+candles_3d-candles_per_node (Maximal stacked candles count) int 5 1 5
+candles_3d-deprecated_nodes (Add aliases for early nodes names) bool false
